@@ -27,3 +27,8 @@ Google OAuth<br>
 dotenv for environment variables<br>
 cors for handling cross-origin requests<br>
 
+## 👨‍💻 Author
+Developed by: Kawya R.M.S <br>
+💼 LinkedIn: www.linkedin.com/in/shasthri-kawya-7358b6326 <br>
+📧 Email: kawyaranaweera9@gmail.com <br>
+
